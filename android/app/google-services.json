@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024540748358",
+    "project_id": "newsfeedapp-f6868",
+    "storage_bucket": "newsfeedapp-f6868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024540748358:android:9750288d5552867fd47847",
+        "android_client_info": {
+          "package_name": "com.example.newsfeedapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB34ng0BnD7KH5jIZ1np_ReYGSUjsRGuBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
